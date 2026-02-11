@@ -58,19 +58,45 @@ mini_katalog_app/
 
 1. **Projeyi klonlayın:**
    ```bash
-   git clone [repository-url]
-   cd mini_katalog_app
+   git clone https://github.com/neslihancbn/Persona_Mobil_uygulama_flutter.git
+   cd Persona_Mobil_uygulama_flutter/mini_katalog_app
    ```
 
-2. **Bağımlılıkları yükleyin:**
+2. **Doğru klasörde misin kontrol et:**
+   ```bash
+   dir  # Windows
+   ls   # Mac/Linux
+   ```
+   `pubspec.yaml` görüyorsan doğru yerdesin ✅
+
+3. **Bağımlılıkları yükleyin:**
    ```bash
    flutter pub get
    ```
+   Hata vermezse tamamdır ✅
 
-3. **Uygulamayı çalıştırın:**
+4. **Cihaz bağlı mı kontrol et:**
+   ```bash
+   flutter devices
+   ```
+   Şunlardan biri görünmeli:
+   - Chrome
+   - Edge
+   - Android Emulator
+   - Bağlı telefon
+
+5. **Uygulamayı çalıştırın:**
+   
+   **Web için (en kolayı):**
+   ```bash
+   flutter run -d chrome
+   ```
+   
+   **veya cihaz seçerek:**
    ```bash
    flutter run
    ```
+   Menüden cihaz seçin (1, 2, 3...)
 
 ## 📚 Öğrenme Hedefleri
 
