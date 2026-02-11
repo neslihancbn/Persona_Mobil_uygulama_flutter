@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Akıllı Telefon",
+    "description": "Son teknoloji akıllı telefon, 128GB depolama alanı, 6.5 inç AMOLED ekran, 48MP kamera",
+    "price": 8999.99,
+    "image": "assets/images/product_1.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": 2,
+    "title": "Dizüstü Bilgisayar",
+    "description": "Güçlü işlemci, 16GB RAM, 512GB SSD, 15.6 inç Full HD ekran",
+    "price": 15999.99,
+    "image": "assets/images/product_2.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": 3,
+    "title": "Kablosuz Kulaklık",
+    "description": "Gürültü önleyici, 30 saat pil ömrü, Bluetooth 5.0",
+    "price": 1299.99,
+    "image": "assets/images/product_3.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": 4,
+    "title": "Spor Ayakkabı",
+    "description": "Rahat, hafif ve şık tasarım, hava geçiren kumaş",
+    "price": 599.99,
+    "image": "assets/images/product_4.jpg",
+    "category": "clothing"
+  },
+  {
+    "id": 5,
+    "title": "Kot Pantolon",
+    "description": "Slim fit, %100 pamuk, çeşitli bedenlerde",
+    "price": 299.99,
+    "image": "assets/images/product_5.jpg",
+    "category": "clothing"
+  },
+  {
+    "id": 6,
+    "title": "Akıllı Saat",
+    "description": "Nabız, adım sayar, su geçirmez, 7 gün pil ömrü",
+    "price": 2499.99,
+    "image": "assets/images/product_6.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": 7,
+    "title": "Tişört",
+    "description": "Pamuklu, çeşitli renklerde, rahat kesim",
+    "price": 149.99,
+    "image": "assets/images/product_7.jpg",
+    "category": "clothing"
+  },
+  {
+    "id": 8,
+    "title": "Tablet",
+    "description": "10.1 inç ekran, 64GB depolama, 8MP kamera",
+    "price": 4999.99,
+    "image": "assets/images/product_8.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": 9,
+    "title": "Sırt Çantası",
+    "description": "Laptop bölmeli, su geçirmez, ergonomik tasarım",
+    "price": 399.99,
+    "image": "assets/images/product_9.jpg",
+    "category": "other"
+  },
+  {
+    "id": 10,
+    "title": "Kamera",
+    "description": "24MP, 4K video kaydı, WiFi ve Bluetooth bağlantı",
+    "price": 12999.99,
+    "image": "assets/images/product_10.jpg",
+    "category": "electronics"
+  }
+]
